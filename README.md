@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Ahmed-Elzayady
+- 👋 Hi, I’m Eng./Ahmed-Elzayady
+- 💻 I'm a communication engineer
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on a team interesteed
