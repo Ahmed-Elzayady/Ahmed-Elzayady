@@ -1,9 +1,6 @@
-- 👋 Hi, I’m Eng./Ahmed-Elzayady
-- 💻 I'm a communication engineer
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on a team interesteed
-- 📫 you can reach me by sending an email at "ahmedmagdy0880@gmail.com"
+### Hi there 🤞
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Elzayady)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Ahmed-Elzayady/Ahmed-Elzayady is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
