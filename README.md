@@ -1,6 +1,6 @@
 ### Hi there 🤞
 
-# My name is Ahmed Al-Ziyadi, I am a communication engineer and I also work as a front-end developer.. I love programming a lot and I always strive to develop myself day by day.
+# My name is Ahmed El-zayady, I am a communication engineer and I also work as a front-end developer.. I love programming a lot and I always strive to develop myself day by day.
 
 
 ## You can contact me by sending a message to the following email : ahmedmagdi0880@gmail.com
