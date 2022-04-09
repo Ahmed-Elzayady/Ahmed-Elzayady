@@ -1,6 +1,6 @@
 ### Hi there 🤞
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Elzayady)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Elzayady&show_icons=true&theme=radical)
 
 <!---
 Ahmed-Elzayady/Ahmed-Elzayady is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
