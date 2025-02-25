@@ -1,7 +1,7 @@
 ### Hi there 🤞
 
 
-<img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" />
+<img src="https://i.postimg.cc/FH3c2dPx/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d.gif" />
 
 # My name is Ahmed El-zayady, I am a computer & control system engineer and I also work as a front-end developer.. I love programming a lot and I always strive to develop myself day by day.
 
